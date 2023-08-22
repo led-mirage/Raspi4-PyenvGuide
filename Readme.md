@@ -8,7 +8,7 @@ Copyright (c) 2023 led-mirage
 
 この資料では Raspberry Pi 4 に Python のバージョン管理ツール pyenv を導入する手順について説明します。
 
-公式には[GitHub](https://github.com/pyenv/pyenv#automatic-installer)に導入手順が載っていますので、手順を確認したい場合はそちらを参照してください。Debianの手順でやればOKです。
+公式には[GitHub](https://github.com/pyenv/pyenv#automatic-installer)に導入手順が載っていますので、最新・正確な手順を確認したい場合はそちらを参照してください。Debianの手順でやればOKです。
 
 検証に使用した環境は以下の通りです。
 
@@ -81,7 +81,7 @@ pyenv --version
 pyenv install 3.11.4
 ```
 
-インストール可能の Python のバージョンは次のコマンドで調べることができます。
+インストールが可能な Python のバージョンは次のコマンドで調べることができます。
 
 ```bash
 pyenv install -list
