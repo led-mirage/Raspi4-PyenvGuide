@@ -1,7 +1,7 @@
 # Raspberry Pi 4 への pyenv の導入方法
 
 Created on August 21, 2023  
-Updated on August 21, 2023    
+Updated on August 22, 2023    
 Copyright (c) 2023 led-mirage
 
 ## はじめに
@@ -14,6 +14,7 @@ Copyright (c) 2023 led-mirage
 
 - Raspberry Pi 4 Model B 4GB
 - Raspberry Pi OS 64bit Bullseye
+- pyenv 2.3.24
 
 ## １．依存するモジュールのインストール
 
